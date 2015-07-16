@@ -1,0 +1,11 @@
+{
+  "port": 9000,
+  "ip": "0.0.0.0",
+  "console": {
+	  "filename": "application.log",
+	  "levellog": "debug" //debug, log, info, warn, error
+  },
+  "jwt": {
+    "secret":"my-secret-word"
+  }
+}
