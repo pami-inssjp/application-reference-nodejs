@@ -9,7 +9,8 @@
  
 ##Updating NPM and Install global dependencies
 
-    npm install -g npm npm-check-updates ungit  yeoman grunt-cli bower karma mocha supertest should phantomjs
+    npm install -g npm
+    npm install -g npm-check-updates ungit yo grunt-cli bower karma mocha supertest should phantomjs
  
 #Clone this app example
   
